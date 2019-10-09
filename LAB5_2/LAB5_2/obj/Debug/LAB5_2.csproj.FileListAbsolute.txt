@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\bin\Debug\LAB5_2.exe.config
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\bin\Debug\LAB5_2.exe
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\bin\Debug\LAB5_2.pdb
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\obj\Debug\LAB5_2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\obj\Debug\LAB5_2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\obj\Debug\LAB5_2.exe
+C:\Users\PC\Desktop\Учеба\Программирование\Программирование LABS\LAB5\LAB5_2\LAB5_2\obj\Debug\LAB5_2.pdb
