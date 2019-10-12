@@ -1,0 +1,7 @@
+D:\GIT\KYRSI\Game\Game\bin\Debug\Game.exe.config
+D:\GIT\KYRSI\Game\Game\bin\Debug\Game.exe
+D:\GIT\KYRSI\Game\Game\bin\Debug\Game.pdb
+D:\GIT\KYRSI\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\GIT\KYRSI\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\GIT\KYRSI\Game\Game\obj\Debug\Game.exe
+D:\GIT\KYRSI\Game\Game\obj\Debug\Game.pdb
